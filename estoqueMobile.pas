@@ -1,4 +1,4 @@
-unit estoqueMobile;
+Ôªøunit estoqueMobile;
 
 interface
 
@@ -40,7 +40,8 @@ uses
    {$ENDIF}
 
 
-    FMX.ListView,FMX.Ani,FMX.Memo.Types, FireDAC.Phys.SQLiteWrapper.Stat;
+    FMX.ListView,FMX.Ani,FMX.Memo.Types, FireDAC.Phys.SQLiteWrapper.Stat,
+  FMX.ListBox;
 
 
 
@@ -52,7 +53,7 @@ type
     tabComntrol1: TTabControl;
     tbInicial: TTabItem;
     tbContagem: TTabItem;
-    tbConfiguraÁ„o: TTabItem;
+    tbConfigura√ß√£o: TTabItem;
     Rectangle1: TRectangle;
     Rectangle2: TRectangle;
     Rectangle3: TRectangle;
@@ -516,7 +517,7 @@ begin
            cdscolabtemp.Next;
         end;
 
-       // ShowMessage('USU¡RIOS ATUALIZADOS');
+       // ShowMessage('USU√ÅRIOS ATUALIZADOS');
 
     except
 
@@ -620,14 +621,14 @@ begin
           begin
             if cdsProduto.FieldByName('ESTOQUE').AsCurrency <0 then
             Begin
-             diag.Show(TIconDialog.Warning,'AtenÁ„o','Produto com Estoque Negativo');
+             diag.Show(TIconDialog.Warning,'Aten√ß√£o','Produto com Estoque Negativo');
              lbEstoque.Text :='Estoque: '+formatfloat('0.000',cdsProduto.FieldByName('ESTOQUE').AsFloat);
              lbDescricao.Text := cdsProduto.FieldByName('DESCRICAO').AsString;
              lbPreco.Text     := 'Valor: '+formatfloat('0.00',cdsProduto.FieldByName('VENDA').AsFloat);
             end
             else if cdsProduto.FieldByName('ESTOQUE').AsCurrency =0 then
             begin
-             diag.Show(TIconDialog.Warning,'AtenÁ„o','Produto com Estoque Zerado');
+             diag.Show(TIconDialog.Warning,'Aten√ß√£o','Produto com Estoque Zerado');
              lbEstoque.Text :='Estoque: '+formatfloat('0.000',cdsProduto.FieldByName('ESTOQUE').AsFloat);
              lbDescricao.Text := cdsProduto.FieldByName('DESCRICAO').AsString;
              lbPreco.Text     := 'Valor: '+formatfloat('0.00',cdsProduto.FieldByName('VENDA').AsFloat);
@@ -651,12 +652,12 @@ begin
      end
     else
      begin
-       lbDescricao.Text := 'PRODUTO N√O CADASTRADO';
+       lbDescricao.Text := 'PRODUTO N√ÉO CADASTRADO';
        lbPreco.Text := '';
        lbEstoque.Text:= '';
      end;
 
-   if lbDescricao.Text = 'PRODUTO N√O CADASTRADO' then
+   if lbDescricao.Text = 'PRODUTO N√ÉO CADASTRADO' then
    begin
        Edit2.SelectAll;
      Edit2.SetFocus;
@@ -671,7 +672,7 @@ begin
 
 
   except
-    //ShowMessage('Falha da importaÁ„o de produtos');
+    //ShowMessage('Falha da importa√ß√£o de produtos');
   end;
 
 
@@ -743,7 +744,7 @@ begin
 
 
   except
-    //ShowMessage('Falha da importaÁ„o de produtos');
+    //ShowMessage('Falha da importa√ß√£o de produtos');
   end;
 
 
@@ -768,7 +769,7 @@ begin
       lbDescricao.Text := FDqCarga.FieldByName('DESCRICAO').AsString;
      end
    else
-      lbDescricao.Text := 'PRODUTO N√O CADASTRADO';
+      lbDescricao.Text := 'PRODUTO N√ÉO CADASTRADO';
 
 
 
@@ -878,7 +879,7 @@ begin
     end
    else
     begin
-      ShowMessage('N„o h· nada para Exportar');
+      ShowMessage('N√£o h√° nada para Exportar');
     end;
 
     mandaEmail;
@@ -1049,13 +1050,13 @@ begin
                  end
                  else
                  begin
-                  diag.Show(TIconDialog.Error,'AtenÁ„o','Quantidade Inv·lida');
+                  diag.Show(TIconDialog.Error,'Aten√ß√£o','Quantidade Inv√°lida');
 
                  end;
                 end
                 else
                 begin
-                  diag.Show(TIconDialog.Warning,'AtenÁ„o','Digite o Codigo do Produto');
+                  diag.Show(TIconDialog.Warning,'Aten√ß√£o','Digite o Codigo do Produto');
                 end;
          end
          else
@@ -1070,13 +1071,13 @@ begin
 
           if ((Length(Trim(Edit1.Text))<1))  then
            begin
-             diag.Show(TIconDialog.Error,'AtenÁ„o','Quantidade Inv·lida');
+             diag.Show(TIconDialog.Error,'Aten√ß√£o','Quantidade Inv√°lida');
              Exit;
            end;
 
           if ((Length(Trim(Edit2.Text))<1) or (Length(Trim(Edit2.Text))>14))  then
            begin
-             diag.Show(TIconDialog.Error,'AtenÁ„o','Digite um codigo');
+             diag.Show(TIconDialog.Error,'Aten√ß√£o','Digite um codigo');
              Exit;
            end;
 
@@ -1108,9 +1109,9 @@ begin
 
               if sTipo = 'B' then
              begin
-               if lbDescricao.text = 'PRODUTO N√O CADASTRADO' then
+               if lbDescricao.text = 'PRODUTO N√ÉO CADASTRADO' then
                begin
-                  diag.Show(TIconDialog.Warning,'AtenÁ„o','Falha no lanÁameto,Produto N„o Cadastrado');
+                  diag.Show(TIconDialog.Warning,'Aten√ß√£o','Falha no lan√ßameto,Produto N√£o Cadastrado');
                end
                else
                begin
@@ -1187,7 +1188,7 @@ begin
               Params.Values['Database']:= TPath.combine(Tpath.getDocumentsPath,'ESTOQUE.s3db');
               Connected := True;
         except
-                Exception.Create('Error de conex„o com o banco de Dados: ');
+                Exception.Create('Error de conex√£o com o banco de Dados: ');
         end;
         {$ENDIF}
 
@@ -1206,7 +1207,7 @@ begin
             Params.Values['Database']:= 'D:\producao\android\ESTOQUE MOBILE\banco\ESTOQUE.s3db';
             Connected := True;
         except
-           ShowMessage('erro de conex„o');
+           ShowMessage('erro de conex√£o');
         end;
         {$ENDIF}
 
@@ -1234,7 +1235,7 @@ begin
       lbDescricao.Text := cdsProdutoDESCRICAO.AsString;
      end
    else
-      lbDescricao.Text := 'PRODUTO N√O CADASTRADO';}
+      lbDescricao.Text := 'PRODUTO N√ÉO CADASTRADO';}
 
    {with FDqCarga do
     begin
@@ -1251,7 +1252,7 @@ begin
       lbPreco.Text     := formatfloat('0.00',FDqCarga.FieldByName('VENDA').AsFloat);
      end
    else
-      lbDescricao.Text := 'PRODUTO N√O CADASTRADO';  }
+      lbDescricao.Text := 'PRODUTO N√ÉO CADASTRADO';  }
 
 
 
@@ -1264,6 +1265,7 @@ begin
       if sTipo = 'F' then
       begin
         Layout8.Visible := True;
+        lvMotivo.items.Clear;
         restornaMotivo(sLoja.ToInteger());
       end
       else
@@ -1292,6 +1294,7 @@ begin
 
 
         Layout8.Visible := True;
+        lvMotivo.Items.Clear;
         restornaMotivo(sLoja.ToInteger());
 
 
@@ -1320,7 +1323,7 @@ begin
         lbPreco.Text     := formatfloat('0.00',FDqCarga.FieldByName('VENDA').AsFloat);
        end
      else
-        lbDescricao.Text := 'PRODUTO N√O CADASTRADO'; }
+        lbDescricao.Text := 'PRODUTO N√ÉO CADASTRADO'; }
     end;
 
 
@@ -1442,7 +1445,7 @@ begin
       Result := sRetorno;
 
   except
-    ShowMessage('Falha no lanÁamento ');
+    ShowMessage('Falha no lan√ßamento ');
   end;
 
 end;
@@ -1501,7 +1504,7 @@ begin
            // IdHTTP1.Post('http://sriservicos.com.br/integrasri/IntegraSRI.dll/soap/ISRI',Solicit, Retorno);
         IdHTTP1.Post('http://'+sEndereco+'/soap/ISRI',Solicit, Retorno);
       except
-        ShowMessage('N„o consegui me conectar com o servidor'+#13+' tente novamente ou verifique sua conex„o'+#13+' :( ');
+        ShowMessage('N√£o consegui me conectar com o servidor'+#13+' tente novamente ou verifique sua conex√£o'+#13+' :( ');
         Exit
       end;
 
@@ -1517,7 +1520,7 @@ begin
      Result := sRetorno;
 
   except
-    ShowMessage('Falha no lanÁamento ');
+    ShowMessage('Falha no lan√ßamento ');
   end;
 
 end;
@@ -1532,11 +1535,11 @@ begin
    end;}
 
 
-  diag.Show(TIconDialog.Question,'AtenÁ„o'
+  diag.Show(TIconDialog.Question,'Aten√ß√£o'
                                 ,'Deseja mesmo fechar o app'
                                 ,'OK'
                                 ,ClickItem
-                                ,'N„o'
+                                ,'N√£o'
                                 ,ClickFechar);
   
 end;
@@ -1585,7 +1588,7 @@ begin
 
          end;
 
-        if tabComntrol1.ActiveTab = tbConfiguraÁ„o then
+        if tabComntrol1.ActiveTab = tbConfigura√ß√£o then
          begin
            key := 0;
            tabComntrol1.GotoVisibleTab(3,TTabTransition.Slide,TTabTransitionDirection.Reversed);
@@ -1662,13 +1665,13 @@ begin
 
   if ((Length(Trim(Edit1.Text))<1))  then
    begin
-     ShowMessage('Quantidade Inv·lida');
+     ShowMessage('Quantidade Inv√°lida');
      Exit;
    end;
 
   if ((Length(Trim(Edit2.Text))<1) or (Length(Trim(Edit2.Text))>14))  then
    begin
-     ShowMessage('Codigo Inv·lido');
+     ShowMessage('Codigo Inv√°lido');
      Exit;
    end;
 
@@ -1702,7 +1705,7 @@ begin
         end;
 
      except
-         ShowMessage('Falha no lanÁamento ');
+         ShowMessage('Falha no lan√ßamento ');
          Exit;
      end;
 
@@ -1746,7 +1749,7 @@ begin
       end
     else
       begin
-        ShowMessage('Falha no lanÁamento ');
+        ShowMessage('Falha no lan√ßamento ');
       end;
 
    end;
@@ -1883,7 +1886,7 @@ begin
               lbPreco.Text     := formatfloat('0.00',FDqCarga.FieldByName('VENDA').AsFloat);
              end
            else
-              lbDescricao.Text := 'PRODUTO N√O CADASTRADO'; }
+              lbDescricao.Text := 'PRODUTO N√ÉO CADASTRADO'; }
 
 
         end);
@@ -1930,7 +1933,7 @@ begin
            // IdHTTP1.Post('http://sriservicos.com.br/integrasri/IntegraSRI.dll/soap/ISRI',Solicit, Retorno);
         IdHTTP1.Post('http://'+sEndereco+'/soap/ISRI',Solicit, Retorno);
       except
-        ShowMessage('N„o consegui me conectar com o servidor'+#13+' tente novamente ou verifique sua conex„o'+#13+' :( ');
+        ShowMessage('N√£o consegui me conectar com o servidor'+#13+' tente novamente ou verifique sua conex√£o'+#13+' :( ');
         Exit
       end;
 
@@ -1945,7 +1948,7 @@ begin
 
       if sRetorno = '0' then
         begin
-          ShowMessage('o produto n„o foi localizado no servidor');
+          ShowMessage('o produto n√£o foi localizado no servidor');
         end;
      if sRetorno = '1' then
         begin
@@ -1958,7 +1961,7 @@ begin
 
 
   except
-    ShowMessage('Falha no lanÁamento ');
+    ShowMessage('Falha no lan√ßamento ');
   end;
 
 end;
@@ -2006,7 +2009,7 @@ begin
            // IdHTTP1.Post('http://sriservicos.com.br/integrasri/IntegraSRI.dll/soap/ISRI',Solicit, Retorno);
         IdHTTP1.Post('http://'+sEndereco+'/soap/ISRI',Solicit, Retorno);
       except
-        ShowMessage('N„o consegui me conectar com o servidor'+#13+' tente novamente ou verifique sua conex„o'+#13+' :( ');
+        ShowMessage('N√£o consegui me conectar com o servidor'+#13+' tente novamente ou verifique sua conex√£o'+#13+' :( ');
         Exit
       end;
 
@@ -2021,7 +2024,7 @@ begin
 
       if sRetorno = '0' then
         begin
-          ShowMessage('o produto n„o foi localizado no servidor');
+          ShowMessage('o produto n√£o foi localizado no servidor');
         end;
      if sRetorno = '1' then
         begin
@@ -2034,7 +2037,7 @@ begin
 
 
   except
-    ShowMessage('Falha no lanÁamento ');
+    ShowMessage('Falha no lan√ßamento ');
   end;
 
 end;
@@ -2080,7 +2083,7 @@ begin
            // IdHTTP1.Post('http://sriservicos.com.br/integrasri/IntegraSRI.dll/soap/ISRI',Solicit, Retorno);
         IdHTTP1.Post('http://'+sEndereco+'/soap/ISRI',Solicit, Retorno);
       except
-        ShowMessage('N„o consegui me conectar com o servidor'+#13+' tente novamente ou verifique sua conex„o'+#13+' :( ');
+        ShowMessage('N√£o consegui me conectar com o servidor'+#13+' tente novamente ou verifique sua conex√£o'+#13+' :( ');
         Exit
       end;
 
@@ -2095,7 +2098,7 @@ begin
 
       if sRetorno = '0' then
         begin
-          ShowMessage('o produto n„o foi localizado no servidor');
+          ShowMessage('o produto n√£o foi localizado no servidor');
         end;
      if sRetorno = '1' then
         begin
@@ -2108,7 +2111,7 @@ begin
 
 
   except
-    ShowMessage('Falha no lanÁamento ');
+    ShowMessage('Falha no lan√ßamento ');
   end;
 
 end;
@@ -2215,12 +2218,12 @@ begin
      end
     else
      begin
-       //lbDescricao.Text := 'PRODUTO N√O CADASTRADO';;
+       //lbDescricao.Text := 'PRODUTO N√ÉO CADASTRADO';;
      end;
 
 
   except
-    //ShowMessage('Falha da importaÁ„o de produtos');
+    //ShowMessage('Falha da importa√ß√£o de produtos');
   end;
 
       }
@@ -2411,8 +2414,8 @@ procedure TForm1.Rectangle12Click(Sender: TObject);
 begin
 
 
-    diag.Show(TIconDialog.Question, 'AtenÁ„o',
-                    'Deseja Salvar item?', 'Sim',ClickSim, 'N„o', ClickNao);
+    diag.Show(TIconDialog.Question, 'Aten√ß√£o',
+                    'Deseja Salvar item?', 'Sim',ClickSim, 'N√£o', ClickNao);
 
 
 
@@ -2441,7 +2444,7 @@ end;
 
 procedure TForm1.Rectangle14Click(Sender: TObject);
 begin
-  label1.Text     := 'BALAN«O';
+  label1.Text     := 'BALAN√áO';
   Layout7.Height := 204;
   Edit1.Text := '';
   lbestoque.text := '';
@@ -2639,13 +2642,13 @@ begin
 
  { if ((Length(Trim(Edit1.Text))<1))  then
    begin
-     diag.Show(TIconDialog.Error,'AtenÁ„o','Quantidade Inv·lida');
+     diag.Show(TIconDialog.Error,'Aten√ß√£o','Quantidade Inv√°lida');
      Exit;
    end;
 
   if ((Length(Trim(Edit2.Text))<1) or (Length(Trim(Edit2.Text))>14))  then
    begin
-     diag.Show(TIconDialog.Error,'AtenÁ„o','Digite um codigo');
+     diag.Show(TIconDialog.Error,'Aten√ß√£o','Digite um codigo');
      Exit;
    end; }
 
@@ -2748,7 +2751,7 @@ begin
         end
         else
         begin
-          diag.Show(TIconDialog.Warning,'AtenÁ„o','Digite o Codigo do Produto');
+          diag.Show(TIconDialog.Warning,'Aten√ß√£o','Digite o Codigo do Produto');
         end;
 
 
@@ -2803,7 +2806,7 @@ begin
             if cdscolabtemp.FieldByName('FUNCAO').AsInteger <> 1 then
               begin
 
-                 diag.Show(TIconDialog.Error,'Opss','Usu·rio sem permiss„o');
+                 diag.Show(TIconDialog.Error,'Opss','Usu√°rio sem permiss√£o');
                  layoutValidaLogin.Visible := False;
 
               end
@@ -2812,7 +2815,16 @@ begin
 
                
                 diag.Show(TIconDialog.Success,'Que bom!','Dados Salvos com sucesso');
-                tabComntrol1.ActiveTab := tbLogin;
+
+                if SpeedButton10.tag = 1 then
+                begin
+                 tabComntrol1.ActiveTab := tbLogin;
+                end
+                else
+                begin
+                  tabComntrol1.ActiveTab := tbInicial;
+                end;
+
                 layoutValidaLogin.Visible := False;
               end;
            end
@@ -2880,7 +2892,7 @@ begin
         end
         else
         begin
-          diag.Show(TIconDialog.Warning,'AtenÁ„o','Digite o Codigo do Produto');
+          diag.Show(TIconDialog.Warning,'Aten√ß√£o','Digite o Codigo do Produto');
         end;
 
 
@@ -2971,7 +2983,7 @@ begin
 
 
   except
-    ShowMessage('Falha da importaÁ„o de produtos');
+    ShowMessage('Falha da importa√ß√£o de produtos');
   end;
 
 
@@ -2984,8 +2996,11 @@ begin
 
 
  abreConfig.ExecuteTarget(self);
+ CarregaConfig;
 
+ SpeedButton10.tag := 1;
 
+ {
   with FDqCarga do
    begin
      Close;
@@ -3012,12 +3027,12 @@ begin
    else
        chbScanRapido.IsChecked := False;   }
 
-   if FDqCarga.FieldByName('USA_REQDEV').AsInteger = 1 then
+   {if FDqCarga.FieldByName('USA_REQDEV').AsInteger = 1 then
        chbUsaReqDev.IsChecked := True
    else
        chbUsaReqDev.IsChecked := False;
 
-
+   }
 
 end;
 
@@ -3086,9 +3101,9 @@ end;
 procedure TForm1.SpeedButton2Click(Sender: TObject);
 begin
    abreConfig.ExecuteTarget(self);
-
-
-  with FDqCarga do
+   CarregaConfig;
+   SpeedButton10.tag := 2;
+ { with FDqCarga do
    begin
      Close;
      sql.Clear;
@@ -3114,10 +3129,10 @@ begin
    else
        chbScanRapido.IsChecked := False;   }
 
-   if FDqCarga.FieldByName('USA_REQDEV').AsInteger = 1 then
+   {if FDqCarga.FieldByName('USA_REQDEV').AsInteger = 1 then
        chbUsaReqDev.IsChecked := True
    else
-       chbUsaReqDev.IsChecked := False;
+       chbUsaReqDev.IsChecked := False;}
 
 
 
@@ -3133,7 +3148,7 @@ var t:TThread;
  I:Integer;
 begin
 
-     { MessageDlg('Deseja fazer a importaÁ„o agora ? ',
+     { MessageDlg('Deseja fazer a importa√ß√£o agora ? ',
       System.UITypes.TMsgDlgType.mtInformation,
       [System.UITypes.TMsgDlgBtn.mbYes, System.UITypes.TMsgDlgBtn.mbNo], 0,
       procedure(const BotaoPressionado: TModalResult)
@@ -3213,7 +3228,7 @@ begin
   if sTipo = 'R' then
     begin
        SpeedButton6.tag:=1;
-       label1.Text     := 'REQUISI«√O';
+       label1.Text     := 'REQUISI√á√ÉO';
        Layout3.visible := False;
        Layout16.Visible := True;
        SpeedButton1.Visible := False;
@@ -3226,7 +3241,7 @@ begin
   else if  sTipo = 'E' then
     begin
       SpeedButton9.tag:=1;
-      label1.Text     := 'DEVOLU«√O';
+      label1.Text     := 'DEVOLU√á√ÉO';
       Layout3.visible := False;
       Layout16.Visible := True;
       SpeedButton1.Visible:=False;
@@ -3244,7 +3259,7 @@ end;
 
 procedure TForm1.SpeedButton8Click(Sender: TObject);
 begin
-  tabComntrol1.ActiveTab := tbConfiguraÁ„o;
+  tabComntrol1.ActiveTab := tbConfigura√ß√£o;
 
   with FDqCarga do
    begin
@@ -3265,7 +3280,7 @@ begin
  if sTipo = 'R' then
     begin
        SpeedButton9.tag:=1;
-       label1.Text     := 'REQUISI«√O';
+       label1.Text     := 'REQUISI√á√ÉO';
        //Layout3.visible := False;
       // Layout16.Visible := True;
        //SpeedButton1.Visible := True;
@@ -3282,7 +3297,7 @@ begin
   else if  sTipo = 'E' then
     begin
       SpeedButton9.tag:=1;
-      label1.Text     := 'DEVOLU«√O';
+      label1.Text     := 'DEVOLU√á√ÉO';
       //Layout3.visible := False;
      // Layout16.Visible := True;
      //SpeedButton1.Visible:=True;

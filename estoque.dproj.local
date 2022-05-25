@@ -29,7 +29,7 @@
     <Transaction>2021/11/18 09:31:42.000.098,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\1D Barcodes\ZXing.OneD.Code128Reader.pas</Transaction>
     <Transaction>2021/11/18 09:31:42.000.649,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\1D Barcodes\ZXing.OneD.UPCEANExtension2Support.pas</Transaction>
     <Transaction>2021/11/18 09:31:42.000.812,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\1D Barcodes\ZXing.OneD.UPCEANReader.pas</Transaction>
-    <Transaction>2021/11/18 09:32:02.000.917,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.DecodedBitStreamParser.pas</Transaction>
+    <Transaction>2021/11/18 09:32:02.000.473,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.Datamatrix.Internal.DataBlock.pas</Transaction>
     <Transaction>2021/11/18 09:32:02.000.414,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.Datamatrix.Internal.BitMatrixParser.pas</Transaction>
     <Transaction>2021/11/18 09:32:02.000.728,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.BitMatrixParser.pas</Transaction>
     <Transaction>2021/11/18 09:32:02.000.980,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.Decoder.pas</Transaction>
@@ -38,7 +38,7 @@
     <Transaction>2021/11/18 09:32:02.000.540,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.Datamatrix.Internal.DecodedBitStreamParser.pas</Transaction>
     <Transaction>2021/11/18 09:32:02.000.601,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.Datamatrix.Internal.Decoder.pas</Transaction>
     <Transaction>2021/11/18 09:32:02.000.665,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.Datamatrix.Internal.Version.pas</Transaction>
-    <Transaction>2021/11/18 09:32:02.000.473,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.Datamatrix.Internal.DataBlock.pas</Transaction>
+    <Transaction>2021/11/18 09:32:02.000.917,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.DecodedBitStreamParser.pas</Transaction>
     <Transaction>2021/11/18 09:32:03.000.316,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.Version.pas</Transaction>
     <Transaction>2021/11/18 09:32:03.000.105,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.FormatInformation.pas</Transaction>
     <Transaction>2021/11/18 09:32:03.000.043,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\2D Barcodes\Decoder\ZXing.QrCode.Internal.ErrorCorrectionLevel.pas</Transaction>
@@ -68,10 +68,10 @@
     <Transaction>2021/11/18 09:34:26.000.723,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.BarcodeFormat.pas</Transaction>
     <Transaction>2021/11/18 09:34:27.000.039,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.Common.DetectorResult.pas</Transaction>
     <Transaction>2021/11/18 09:34:27.000.240,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.DecoderResult.pas</Transaction>
-    <Transaction>2021/11/18 09:34:27.000.610,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.ResultMetadataType.pas</Transaction>
     <Transaction>2021/11/18 09:34:27.000.193,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.DecodeHintType.pas</Transaction>
-    <Transaction>2021/11/18 09:34:27.000.557,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.ReadResult.pas</Transaction>
+    <Transaction>2021/11/18 09:34:27.000.610,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.ResultMetadataType.pas</Transaction>
     <Transaction>2021/11/18 09:34:27.000.394,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.Helpers.pas</Transaction>
+    <Transaction>2021/11/18 09:34:27.000.557,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.ReadResult.pas</Transaction>
     <Transaction>2021/11/18 09:34:27.000.726,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.ResultPointImplementation.pas</Transaction>
     <Transaction>2021/11/18 09:34:27.000.309,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.DefaultGridSampler.pas</Transaction>
     <Transaction>2021/11/18 09:34:27.000.673,=D:\producao\android\INVENTARIO MOBILE\Lib\Common\ZXing.ResultPoint.pas</Transaction>
@@ -87,8 +87,8 @@
     <Transaction>2021/11/18 09:34:49.000.070,=D:\producao\android\INVENTARIO MOBILE\Lib\Filtering\ZXing.Binarizer.pas</Transaction>
     <Transaction>2021/11/18 09:34:49.000.139,=D:\producao\android\INVENTARIO MOBILE\Lib\Filtering\ZXing.BinaryBitmap.pas</Transaction>
     <Transaction>2021/11/18 09:34:49.000.022,=D:\producao\android\INVENTARIO MOBILE\Lib\Filtering\ZXing.BaseLuminanceSource.pas</Transaction>
-    <Transaction>2021/11/18 09:34:49.000.302,=D:\producao\android\INVENTARIO MOBILE\Lib\Filtering\ZXing.InvertedLuminanceSource.pas</Transaction>
     <Transaction>2021/11/18 09:34:49.000.239,=D:\producao\android\INVENTARIO MOBILE\Lib\Filtering\ZXing.HybridBinarizer.pas</Transaction>
+    <Transaction>2021/11/18 09:34:49.000.302,=D:\producao\android\INVENTARIO MOBILE\Lib\Filtering\ZXing.InvertedLuminanceSource.pas</Transaction>
     <Transaction>2021/11/18 09:34:49.000.371,=D:\producao\android\INVENTARIO MOBILE\Lib\Filtering\ZXing.LuminanceSource.pas</Transaction>
     <Transaction>2021/11/18 09:35:09.000.902,=D:\producao\android\INVENTARIO MOBILE\ZXing.Delphi-v_3.0\Lib\Classes\ZXing.ScanManager.pas</Transaction>
     <Transaction>2021/11/18 09:39:38.000.144,=D:\producao\android\INVENTARIO MOBILE\u99Permissions.pas</Transaction>

@@ -6,7 +6,7 @@
     <PropertyGroup>
         <DeviceId Condition="'$(Platform)'=='Android'"/>
         <DeviceId Condition="'$(Platform)'=='Android64'"/>
-        <DeviceId Condition="'$(Platform)'=='iOSDevice64'"/>
+        <DeviceId Condition="'$(Platform)'=='iOSDevice64'">7d0a00eb9119496fa607f56c21c6f5be08deb066</DeviceId>
         <DeviceId Condition="'$(Platform)'=='iOSSimulator'"/>
     </PropertyGroup>
     <ItemGroup Condition="'$(Platform)'=='iOSDevice64'">
@@ -236,24 +236,6 @@
             <Overwrite>True</Overwrite>
             <Required>True</Required>
         </DeployFile>
-        <DeployFile Include="iOSDevice64\Release\estoque.info.plist" Condition="'$(Config)'=='Release'">
-            <RemoteDir>estoque.app\</RemoteDir>
-            <RemoteName>Info.plist</RemoteName>
-            <DeployClass>ProjectiOSInfoPList</DeployClass>
-            <Operation>1</Operation>
-            <LocalCommand/>
-            <RemoteCommand/>
-            <Overwrite>True</Overwrite>
-        </DeployFile>
-        <DeployFile Include="$(BDS)\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_2x.png" Condition="'$(Config)'=='Release'">
-            <RemoteDir>estoque.app\..\$(PROJECTNAME).launchscreen\Assets\LaunchScreenImage.imageset\</RemoteDir>
-            <RemoteName>FM_LaunchScreenImage_iPhoneDark@2x.png</RemoteName>
-            <DeployClass>iPhone_LaunchDark2x</DeployClass>
-            <Operation>1</Operation>
-            <LocalCommand/>
-            <RemoteCommand/>
-            <Overwrite>True</Overwrite>
-        </DeployFile>
         <DeployFile Include="imagem\AppIcon.appiconset\1024.png" Condition="'$(Config)'=='Release'">
             <RemoteDir>estoque.app\..\$(PROJECTNAME).launchscreen\Assets\AppIcon.appiconset\</RemoteDir>
             <RemoteName>1024.png</RemoteName>
@@ -267,6 +249,24 @@
             <RemoteDir>estoque.app\..\$(PROJECTNAME).launchscreen\Assets\AppIcon.appiconset\</RemoteDir>
             <RemoteName>120.png</RemoteName>
             <DeployClass>iPhone_Spotlight120</DeployClass>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+            <Overwrite>True</Overwrite>
+        </DeployFile>
+        <DeployFile Include="iOSDevice64\Release\estoque.info.plist" Condition="'$(Config)'=='Release'">
+            <RemoteDir>estoque.app\</RemoteDir>
+            <RemoteName>Info.plist</RemoteName>
+            <DeployClass>ProjectiOSInfoPList</DeployClass>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+            <Overwrite>True</Overwrite>
+        </DeployFile>
+        <DeployFile Include="$(BDS)\bin\Artwork\iOS\iPhone\FM_LaunchImageDark_2x.png" Condition="'$(Config)'=='Release'">
+            <RemoteDir>estoque.app\..\$(PROJECTNAME).launchscreen\Assets\LaunchScreenImage.imageset\</RemoteDir>
+            <RemoteName>FM_LaunchScreenImage_iPhoneDark@2x.png</RemoteName>
+            <DeployClass>iPhone_LaunchDark2x</DeployClass>
             <Operation>1</Operation>
             <LocalCommand/>
             <RemoteCommand/>
@@ -471,6 +471,15 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
+        <DeployFile Include="banco\ESTOQUE.s3db" Condition="'$(Config)'=='Release'">
+            <RemoteDir>estoque.app\StartUp\Documents\</RemoteDir>
+            <RemoteName>ESTOQUE.s3db</RemoteName>
+            <DeployClass>File</DeployClass>
+            <Operation>0</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+            <Overwrite>True</Overwrite>
+        </DeployFile>
         <DeployFile Include="imagem\AppIcon.appiconset\76.png" Condition="'$(Config)'=='Debug'">
             <RemoteDir>estoque.app\</RemoteDir>
             <RemoteName>76.png</RemoteName>
@@ -485,15 +494,6 @@
             <RemoteName>152.png</RemoteName>
             <DeployClass>iPad_AppIcon152</DeployClass>
             <Operation>1</Operation>
-            <LocalCommand/>
-            <RemoteCommand/>
-            <Overwrite>True</Overwrite>
-        </DeployFile>
-        <DeployFile Include="banco\INVENTARIO.s3db" Condition="'$(Config)'=='Release'">
-            <RemoteDir>estoque.app\StartUp\Documents\</RemoteDir>
-            <RemoteName>INVENTARIO.s3db</RemoteName>
-            <DeployClass>File</DeployClass>
-            <Operation>0</Operation>
             <LocalCommand/>
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
@@ -831,6 +831,15 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
+        <DeployFile Include="Android\Release\AndroidManifest.xml" Condition="'$(Config)'=='Release'">
+            <RemoteDir>estoque\</RemoteDir>
+            <RemoteName>AndroidManifest.xml</RemoteName>
+            <DeployClass>ProjectAndroidManifest</DeployClass>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+            <Overwrite>True</Overwrite>
+        </DeployFile>
         <DeployFile Include="Android\Release\splash_image_def.xml" Condition="'$(Config)'=='Release'">
             <RemoteDir>estoque\res\drawable\</RemoteDir>
             <RemoteName>splash_image_def.xml</RemoteName>
@@ -858,15 +867,6 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
             <Required>True</Required>
-        </DeployFile>
-        <DeployFile Include="Android\Release\AndroidManifest.xml" Condition="'$(Config)'=='Release'">
-            <RemoteDir>estoque\</RemoteDir>
-            <RemoteName>AndroidManifest.xml</RemoteName>
-            <DeployClass>ProjectAndroidManifest</DeployClass>
-            <Operation>1</Operation>
-            <LocalCommand/>
-            <RemoteCommand/>
-            <Overwrite>True</Overwrite>
         </DeployFile>
         <DeployFile Include="imagem\144.png" Condition="'$(Config)'=='Debug'">
             <RemoteDir>estoque\res\drawable-xxhdpi\</RemoteDir>

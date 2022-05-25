@@ -1,0 +1,473 @@
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\SysInit.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Types.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Base.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Dlfcn.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.StdDef.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.SysTypes.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Fcntl.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.SysStat.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Signal.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Time.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.SysTime.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Locale.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.Mach.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.CoreServices.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.CoreFoundation.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.SysConst.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Iconv.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Dirent.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Errno.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Fnmatch.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Langinfo.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Sched.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Pthread.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Stdio.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Stdlib.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.String_.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.SysSysctl.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Unistd.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Utime.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Wordexp.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Pwd.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Semaphore.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.SysUio.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.SysSocket.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.ArpaInet.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.NetinetIn.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.ObjCRuntime.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.RTLConsts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Wchar.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.Wctype.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Character.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Internal.MachExceptions.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Internal.ExcUtils.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.SysUtils.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.VarUtils.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Variants.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.SysMman.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.StrOpts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.SysSelect.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Math.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.TimeSpan.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Diagnostics.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Classes.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Hash.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Rtti.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.TypInfo.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Generics.Defaults.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Generics.Collections.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.CocoaTypes.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.OCMarshal.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.Consts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.OCBlocks.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.ObjectiveC.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.Foundation.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Masks.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.CoreGraphics.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Mac.CFUtils.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.DateUtils.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.Helpers.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.StrUtils.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.IOUtils.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.StartUpCopy.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.UITypes.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.QuartzCore.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.CoreData.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.OpenGLES.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.CoreImage.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.CoreText.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.UIKit.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Messaging.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Analytics.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Math.Vectors.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Actions.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.ImageList.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Consts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.iOS.Devices.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Devices.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.DialogService.Async.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Dialogs.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.UIConsts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Surfaces.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.TextLayout.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Utils.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Graphics.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.RegularExpressionsAPI.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.RegularExpressionsConsts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.RegularExpressionsCore.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.RegularExpressions.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Text.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.Dispatch.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.Metal.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Macapi.MetalKit.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.GLKit.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.BehaviorManager.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Styles.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.Helpers.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Helpers.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Presentation.Messages.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Controls.Model.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Presentation.Factory.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.SyncObjs.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.MultiResBitmap.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Ani.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Presentation.Style.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ZOrder.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Presentation.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Presentation.Style.Common.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Materials.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Types3D.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Materials.Canvas.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Canvas.GPU.Helpers.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.FontGlyphs.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.FontGlyphs.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.TextLayout.GPU.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.StrokeBuilder.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Canvas.GPU.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Context.Metal.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Filter.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Context.GLES.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Context.GLES.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Presentation.iOS.Style.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Controls.Presentation.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.VirtualKeyboard.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.VirtualKeyboard.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Filter.Custom.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Effects.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.AcceleratorKey.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Objects.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.DialogService.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Gestures.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Gestures.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ImgList.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Menus.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Controls.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ZOrder.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.CoreLocation.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.UserNotifications.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Controls3D.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.MaterialSources.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Import.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Objects3D.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Forms3D.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Graphics.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Controls.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Dialogs.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Platform.Timer.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Platform.SaveState.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.MultiTouch.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.MultiTouch.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Pickers.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Pickers.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Platform.Metrics.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Platform.Device.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Platform.Screen.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Platform.Logger.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Platform.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Platform.Common.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Clipboard.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Clipboard.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Platform.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ActnList.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Types.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.StdActns.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Styles.Objects.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Styles.Switch.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Switch.Style.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Switch.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.StdCtrls.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.InertialMovement.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Layouts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Header.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Forms.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.MagnifierGlass.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.SpellChecker.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.SpellChecker.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Edit.Style.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Edit.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Edit.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.WebKit.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.WebBrowser.Delegate.Cocoa.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.WebBrowser.Delegate.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.NetConsts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Net.Mime.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Threading.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.NetEncoding.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Net.URLClient.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.WebBrowser.Cocoa.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.WebBrowser.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.TabControl.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.MediaPlayer.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.AssetsLibrary.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.MediaLibrary.IOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.MediaLibrary.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.MediaLibrary.Actions.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\DataPak.Android.BarcodeScanner.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.MaskUtils.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Data.DBConsts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Data.SqlTimSt.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Data.FmtBcd.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Data.DBCommonTypes.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Data.DB.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.AnsiStrings.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Data.DBCommon.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Datasnap.MidConst.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Datasnap.DSIntf.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Datasnap.Midas.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Datasnap.DataBkr.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Datasnap.Provider.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Datasnap.DBClient.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdException.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdResourceStrings.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdStreamVCL.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdStream.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdGlobal.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdBaseComponent.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCTypes.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdVCLPosixSupplemental.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.NetDB.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdStackConsts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdStackBSDBase.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdResourceStringsUnix.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdResourceStringsVCLPosix.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\Posix.NetIf.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdStackVCLPosix.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdStack.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdComponent.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdExceptionCore.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdResourceStringsCore.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdBuffer.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdIntercept.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdAntiFreezeBase.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdIOHandler.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdSocketHandle.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCustomTransparentProxy.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdAssignedNumbers.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdIPAddress.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdTCPClient.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdIOHandlerStack.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdSocks.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdIOHandlerSocket.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdReply.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdReplyRFC.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdTCPConnection.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCharsets.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdResourceStringsProtocols.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdGlobalProtocols.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdHeaderList.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCoder.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCoder3to4.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCoderMIME.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdAuthentication.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdHTTPHeaderInfo.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdYarn.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdTask.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdThreadSafe.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdContext.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdServerIOHandler.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdServerIOHandlerSocket.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdServerIOHandlerStack.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdGlobalCore.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdSchedulerOfThreadDefault.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCustomTCPServer.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdTCPServer.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdSchedulerOfThread.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdThread.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdScheduler.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdSSL.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdZLibCompressorBase.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdUriUtils.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdURI.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCookie.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCookieManager.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdAuthenticationManager.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdEMailAddress.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdHeaderCoderBase.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdHeaderCoderPlain.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdHeaderCoder2022JP.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdHeaderCoderIndy.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdAllHeaderCoders.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCoderHeader.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdCoderQuotedPrintable.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdMultipartFormData.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdResourceStringsOpenSSL.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdFIPS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdSSLOpenSSLHeaders.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdSSLOpenSSL.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdStruct.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdHash.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdHashMessageDigest.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdNTLM.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdAuthenticationNTLM.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdAuthenticationDigest.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdAllAuthentications.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\IdHTTP.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ScrollBox.Style.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ScrollBox.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ScrollBox.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Memo.Types.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Memo.Style.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Memo.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Memo.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.IniFiles.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Consts.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.ResStrs.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Error.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Util.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Intf.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.SQLTimeInt.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Param.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.DatS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.UI.Intf.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.Intf.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.DApt.Column.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.DApt.Intf.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Factory.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Option.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Def.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Pool.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Async.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.SQLGenerator.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.SQLPreprocessor.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.Meta.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Expr.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.SQLiteCli.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.SQLiteMeta.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.SQLiteWrapper.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.Cipher.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.SQLiteDef.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.SQLite.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Stan.ExprFuncs.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Comp.UI.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.UI.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.FMXUI.Wait.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.DApt.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Comp.DataSet.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Comp.Client.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ListView.Types.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ListView.Adapters.Base.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ListView.Appearances.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\Loading.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\uFormat.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\uFancyDialog.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\System.Permissions.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\u99Permissions.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.CoreAudio.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.CoreVideo.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.CoreMedia.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\iOSapi.AVFoundation.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Media.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Media.AVFoundation.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Media.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.LuminanceSource.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.InvertedLuminanceSource.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.BaseLuminanceSource.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Common.Detector.MathUtils.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Helpers.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.RGBLuminanceSource.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Common.BitArrayImplementation.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Common.BitArray.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.BarcodeFormat.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Common.BitMatrix.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Binarizer.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.GlobalHistogramBinarizer.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.HybridBinarizer.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.BinaryBitmap.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.ResultPointImplementation.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.ResultPoint.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.ResultMetadataType.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXIng.ByteSegments.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.ReadResult.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.DecodeHintType.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Reader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.OneDReader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.Code128Reader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.Code93Reader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.ITFReader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.UPCEANExtension2Support.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.UPCEANExtension5Support.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.UPCEANExtensionSupport.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.EANManufacturerOrgSupport.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.UPCEANReader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.EAN13Reader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.EAN8Reader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.UPCAReader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.UPCEReader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.OneD.Code39Reader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.ErrorCorrectionLevel.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.FormatInformation.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.Version.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.DataMask.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.BitMatrixParser.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.DecoderResult.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Common.ReedSolomon.GenericGF.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Common.ReedSolomon.ReedSolomonDecoder.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.QRCodeDecoderMetaData.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.DataBlock.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.BitSource.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.CharacterSetECI.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.StringUtils.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.Mode.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.DecodedBitStreamParser.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.Decoder.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Common.DetectorResult.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Common.PerspectiveTransform.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.FinderPatternImplementation.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.FinderPattern.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.FinderPatternInfo.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.FinderPatternFinder.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.AlignmentPatternImplementation.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.AlignmentPattern.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.AlignmentPatternFinder.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.DefaultGridSampler.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.Internal.Detector.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.QrCode.QRCodeReader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Datamatrix.Internal.Version.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Datamatrix.Internal.BitMatrixParser.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Datamatrix.Internal.DataBlock.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Datamatrix.Internal.DecodedBitStreamParser.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Datamatrix.Internal.Decoder.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Common.GridSampler.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Common.Detector.WhiteRectangleDetector.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Datamatrix.Internal.Detector.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.Datamatrix.DataMatrixReader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.MultiFormatReader.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.ScanManager.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Filter.Standard.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.Filter.Effects.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\UnitCamera.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.SearchBox.Style.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.SearchBox.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ListView.DynamicAppearance.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ListView.iOS.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FMX.ListView.o
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\FireDAC.Phys.SQLiteWrapper.Stat.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\estoqueMobile.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.EncodeHintType.o
+D:\producao\android\ESTOQUE MOBILE\iOSDevice64\Release\ZXing.PlanarYUVLuminanceSource.o
+.\iOSDevice64\Release\estoque.o
+/usr/lib/libiconv.dylib
+/usr/lib/libSystem.dylib
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\librtlhelper.a
+/usr/lib/libc++abi.dylib
+/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+/usr/lib/libobjc.dylib
+/System/Library/Frameworks/Foundation.framework/Foundation
+/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+/System/Library/Frameworks/CoreText.framework/CoreText
+/System/Library/Frameworks/UIKit.framework/UIKit
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\libpcre.a
+/System/Library/Frameworks/Metal.framework/Metal
+/System/Library/Frameworks/MetalKit.framework/MetalKit
+/System/Library/Frameworks/GLKit.framework/GLKit
+/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\libmidas.a
+/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c:\program files (x86)\embarcadero\studio\21.0\lib\iOSDevice64\Release\libsqlite.a
